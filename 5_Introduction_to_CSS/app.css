@@ -1,0 +1,29 @@
+h1 {
+	color: red;
+	border-color: purple;
+	border-width: 5px;
+	border-style: solid;
+
+	border: 5px dashed green;
+}
+
+li {
+	color: rgba(11, 99, 150, .6);
+}
+
+h4 {
+	color: purple;
+	background: rgb(255, 100, 80);
+}
+/*
+body{
+	background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHxohBc3W-tLvGRFU8bQ6q63iJWwC37of4cnoCrYHmNs4ncsor);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+*/
+
+
+body {
+	background: pink;
+}
